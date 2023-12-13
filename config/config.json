@@ -1,26 +1,26 @@
 {
   "development": {
-    "username": "cendekiaone",
-    "password": "cendekiaone",
-    "database": "db_cendekiaone",
-    "host": "146.196.98.251",
-    "port": 3301,  
+    "username": "doadmin",
+    "password": "AVNS_iMD7yNPhQLof7-3C9pT",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-37183-do-user-14659426-0.c.db.ondigitalocean.com",
+    "port": 25060,
     "dialect": "mysql"
   },
   "test": {
-    "username": "cendekiaone",
-    "password": "cendekiaone",
-    "database": "db_cendekiaone",
-    "host": "146.196.98.251",
-    "port": 3301,  
+    "username": "doadmin",
+    "password": "AVNS_iMD7yNPhQLof7-3C9pT",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-37183-do-user-14659426-0.c.db.ondigitalocean.com",
+    "port": 25060,
     "dialect": "mysql"
   },
   "production": {
-    "username": "cendekiaone",
-    "password": "cendekiaone",
-    "database": "db_cendekiaone",
-    "host": "146.196.98.251",
-    "port": 3301,  
+    "username": "doadmin",
+    "password": "AVNS_iMD7yNPhQLof7-3C9pT",
+    "database": "defaultdb",
+    "host": "db-mysql-sgp1-37183-do-user-14659426-0.c.db.ondigitalocean.com",
+    "port": 25060,
     "dialect": "mysql"
   }
 }
